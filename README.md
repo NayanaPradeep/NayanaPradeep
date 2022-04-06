@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayanaPradeep
-- 🌱 I’m currently learning various Machine Learning and Deep Learning techniques
-- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning projects
+- 🌱 I’m currently learning various Machine Learning and Deep Learning techniques.
+- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning projects.
 - 📫 How to reach me nayanapradeep92@gmail.com
 
 <!---
